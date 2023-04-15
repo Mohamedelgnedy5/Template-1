@@ -400,7 +400,6 @@ header .links ul li a:hover{
     background-color: var(--section-background);
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    margin-bottom: 15px;
 }
 .contact-content{
     text-align: center;
